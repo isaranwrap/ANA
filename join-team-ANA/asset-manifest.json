@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://isaranwrap.github.io/ANA/join-team-ANA/static/css/main.836f42af.css",
+    "main.js": "https://isaranwrap.github.io/ANA/join-team-ANA/static/js/main.587418cb.js",
+    "service-worker.js": "https://isaranwrap.github.io/ANA/join-team-ANA/service-worker.js",
+    "static/media/ana-logo.png": "https://isaranwrap.github.io/ANA/join-team-ANA/static/media/ana-logo.045bce97334ace7d5428.png",
+    "index.html": "https://isaranwrap.github.io/ANA/join-team-ANA/index.html",
+    "main.836f42af.css.map": "https://isaranwrap.github.io/ANA/join-team-ANA/static/css/main.836f42af.css.map",
+    "main.587418cb.js.map": "https://isaranwrap.github.io/ANA/join-team-ANA/static/js/main.587418cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.836f42af.css",
+    "static/js/main.587418cb.js"
+  ]
+}
